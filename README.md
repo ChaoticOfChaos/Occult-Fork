@@ -1,4 +1,4 @@
-# Ocult-Fork
+# Occult-Fork
 Invisible Fork Bomb
 
 # ->WARNING<-
